@@ -1,8 +1,4 @@
-
-/*
-stack implementation using array
-*/
-
+//D.T.P stack implementation using array
 
 #include <stdio.h>
 #include <stdlib.h>
