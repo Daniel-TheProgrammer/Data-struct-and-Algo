@@ -49,7 +49,6 @@ bool stack_is_empty(stack* st){
 		return false;
 	return true;
 }
-
 // find the size of the stack
 int stack_size(stack* st){
 	return llist_size(st->top);
