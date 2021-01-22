@@ -26,8 +26,6 @@ int stack_size(stack*);
 
 // print stack element
 void stack_print(stack*);
-
-
 // push an element on the stack
 stack* stack_new(){
 	stack* st=(stack*) malloc(sizeof(stack));
