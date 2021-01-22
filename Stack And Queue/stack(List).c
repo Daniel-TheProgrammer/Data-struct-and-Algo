@@ -1,4 +1,5 @@
 //By D.T.P
+//Push,Pop, Check If stack is empty,check size of stack
 #include "stack.h"
 #include "List.h"
 #include <stdio.h>
