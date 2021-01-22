@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 typedef struct Stack{
 	LList* top;
 }stack;
