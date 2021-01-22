@@ -1,5 +1,5 @@
 //By D.T.P
-// queue using array
+//Queue using array
 
 
 #include <stdio.h>
