@@ -42,7 +42,6 @@ int stack_pop(stack* st){
 	llist_remove_first(st->top);
 	return ret_val;
 }
-
 // Check if stack is empty
 bool stack_is_empty(stack* st){
 	if(st->top->head)
