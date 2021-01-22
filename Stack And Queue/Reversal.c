@@ -1,4 +1,4 @@
-//Count the reversal
+/*Count the reversal
 Given a string S consisting only of opening and closing curly brackets "{" , "}".find out the minimum
 number of reversals required to make a balanced expression.
 
