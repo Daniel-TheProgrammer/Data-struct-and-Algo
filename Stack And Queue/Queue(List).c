@@ -1,5 +1,5 @@
 //queue implementaion using list
-
+//BY D.T.P
 #include <stdio.h>
 #include <stdlib.h>
 
