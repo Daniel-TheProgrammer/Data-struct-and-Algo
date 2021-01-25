@@ -4,8 +4,7 @@ implementation of All Sorting algorithms
 - insertion sort
 - selection sort
 - merge sort
-- quick sort
-*/
+- quick sort*/
 
 void bubble_sort(int*, int);
 void selection_sort(int*, int);
