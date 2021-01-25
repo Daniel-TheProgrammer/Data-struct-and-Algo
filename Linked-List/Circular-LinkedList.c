@@ -2,6 +2,7 @@
 implement operations on Circular Linked List. These type of
 lists have a property that the last node of the list points to first node and thus forms a cyclic-list
 */
+#D.T.P
 
 #include<stdio.h>
 #include<stdlib.h>
