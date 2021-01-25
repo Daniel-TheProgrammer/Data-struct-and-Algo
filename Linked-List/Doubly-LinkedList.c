@@ -2,7 +2,7 @@
 to implement functions to perform operations on DoublyLinked-List. These type of lists are used in applications 
 which requires traversal in both directions
 from the current node. For Example- in lift simulators where movements in both directions happen,
-browser history where users can switch back and forth between pages and so
+browser history where users can switch back and forth between pages and so............DTP
 */
 
 #include<stdio.h>
