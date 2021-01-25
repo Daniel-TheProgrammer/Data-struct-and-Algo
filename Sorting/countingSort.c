@@ -1,7 +1,6 @@
 /*
 
 Implement Counting Sort.
-
 Input:
 Two space separated values n and k where n is the size of the array and array elements 2[0,k]
 n array elements
