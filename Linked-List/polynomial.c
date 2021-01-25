@@ -1,4 +1,4 @@
-/*
+/*D.T.P
 Implement Polynomial (of a single variable) ADT using: Linked List
 Representation: To keep Coefficient and Exponent – 
 (a) Use structures as a node of the list Operations over the polynomials:
