@@ -5,7 +5,6 @@ implementation of All Sorting algorithms
 - selection sort
 - merge sort
 - quick sort
-
 */
 
 void bubble_sort(int*, int);
