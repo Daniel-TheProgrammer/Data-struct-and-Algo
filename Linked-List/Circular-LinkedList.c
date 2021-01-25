@@ -3,7 +3,6 @@
 
 implement operations on Circular Linked List. These type of
 lists have a property that the last node of the list points to first node and thus forms a cyclic-list
-
 */
 
 #include<stdio.h>
