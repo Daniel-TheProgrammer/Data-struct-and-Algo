@@ -221,3 +221,4 @@ void quick_sort(int* a,int l,int r)
 				
 						
 }//end quick sort
+
