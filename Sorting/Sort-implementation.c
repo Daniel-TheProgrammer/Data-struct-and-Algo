@@ -15,6 +15,7 @@ void quick_sort(int*,int,int);
 void merge_sort(int*,int,int);
 
 
+
 /*bubble sort*/
 void bubble_sort(int* a, int n)
 {
